@@ -14,7 +14,9 @@ Detecting fake news is a AI complete problem and involves many parameters to be 
     7) <a href="https://www.kaggle.com/xuyinjie/wsdm-fake-news-classification">WSDM - Fake News Classification by xuyinjie</a>
     8) <a href="https://www.kaggle.com/mrisdal/not-fake-news">Not Fake News by Megan Risdal</a>
     9) <a href="https://www.kaggle.com/ciotolaaaa/snopes-fake-legit-news">Snopes fake legit news by Matteo Mazzola</a>
-    
+    10) <a href="https://www.kaggle.com/sumanthvrao/fakenewsdataset">Fake news dataset by sumanthvrao</a>
+    11) <a href="https://www.kaggle.com/antmarakis/fake-news-data">Fake news data by Antonis Maronikolakis</a>
+    12) <a href="https://www.kaggle.com/ksaivenketpatro/fake-news-detection-dataset">Fake news detection dataset by Saivenket Patro</a>
   * Open Sources dataset
     1) <a href="https://github.com/several27/FakeNewsCorpus">Fake News Corpus</a>
     
